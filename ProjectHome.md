@@ -1,0 +1,1 @@
+Minimalistic iPod manager that allows file copying and playback.
